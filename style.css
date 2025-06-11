@@ -364,7 +364,9 @@ html {
  .expertise-section {
   background-color: white;
   padding: 60px 40px;
+  padding-bottom:10px ;
   text-align: center;
+  padding-top: 40px;
 }
 
 .expertise-subtitle {
@@ -417,6 +419,7 @@ html {
   margin-right: 80px;
   gap: 20px;
   margin-top: 80px;
+
 
 }
 
@@ -934,6 +937,8 @@ html {
   background-color: #f9fbfd;
   padding: 60px 20px;
   text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .why-choose-section h2 {
@@ -956,7 +961,7 @@ html {
   border-radius: 12px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.05);
   padding: 30px 25px;
-  width: 320px;
+  width: 250px;
   text-align: center;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -1316,4 +1321,10 @@ html {
     flex-wrap: wrap;
     justify-content: center;
   }
+}
+
+.rd-icon {
+  font-size: 34px;
+  margin-bottom: 15px;
+  color: #0078d4;
 }
